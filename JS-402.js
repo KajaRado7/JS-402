@@ -8,7 +8,6 @@ function provjeri(lista, pojam, status){
         console.log('Student se nalazi na popisu, ali status se ne podudara');
       }
     }
-
   }
   return false;
 }
